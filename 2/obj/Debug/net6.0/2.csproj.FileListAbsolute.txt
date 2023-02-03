@@ -1,0 +1,15 @@
+C:\git\practice code\practicum\Homework_6\2\bin\Debug\net6.0\2.exe
+C:\git\practice code\practicum\Homework_6\2\bin\Debug\net6.0\2.deps.json
+C:\git\practice code\practicum\Homework_6\2\bin\Debug\net6.0\2.runtimeconfig.json
+C:\git\practice code\practicum\Homework_6\2\bin\Debug\net6.0\2.dll
+C:\git\practice code\practicum\Homework_6\2\bin\Debug\net6.0\2.pdb
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.csproj.AssemblyReference.cache
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.AssemblyInfoInputs.cache
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.AssemblyInfo.cs
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.csproj.CoreCompileInputs.cache
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.dll
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\refint\2.dll
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.pdb
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\2.genruntimeconfig.cache
+C:\git\practice code\practicum\Homework_6\2\obj\Debug\net6.0\ref\2.dll

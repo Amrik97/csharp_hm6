@@ -1,0 +1,5 @@
+C:\git\practice code\practicum\Homework_6\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+C:\git\practice code\practicum\Homework_6\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\practice code\practicum\Homework_6\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+C:\git\practice code\practicum\Homework_6\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+C:\git\practice code\practicum\Homework_6\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
